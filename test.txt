@@ -1,3 +1,7 @@
 hello devops
 TAG will be created for this branch
+<<<<<<< HEAD
 testing this file
+=======
+added this line for testing conflicting
+>>>>>>> a4290c468d2276e4d95cdba3bff4e2831155c756
